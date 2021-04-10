@@ -1,0 +1,11 @@
+.Meaning {
+  border: none;
+  padding: 16px;
+  border-radius: 10px;
+  background-color: #d8ebe4;
+  margin: 10px auto;
+}
+
+.example {
+  color: #536162;
+}
