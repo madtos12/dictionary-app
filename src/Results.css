@@ -1,8 +1,11 @@
 h2 {
+  font-weight: 800;
+}
+
+.word-and-sound {
   border: none;
   padding: 16px;
   border-radius: 10px;
   background-color: #d8ebe4;
   margin: 30px 0 10px 0;
-  font-weight: 800;
 }
