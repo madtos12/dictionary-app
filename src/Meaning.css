@@ -1,8 +1,9 @@
 .Meaning {
   border: none;
   padding: 16px;
-  border-radius: 10px;
+  border-radius: 8px;
   background-color: #d8ebe4;
+  box-shadow: 0 5px 5px rgb(0 0 0 / 5%);
   margin: 10px auto;
 }
 
