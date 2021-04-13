@@ -10,7 +10,7 @@ function App() {
         <h1>Dictionary App 📖</h1>
         <h4>What word do you want to look up? 🔍</h4>
         <div className="search-results">
-          <Dictionary />
+          <Dictionary defaultKeyword="cake" />
         </div>
         <Footer />
       </div>
