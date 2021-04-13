@@ -1,0 +1,8 @@
+a {
+  color: #0c3d42;
+  transition: all 150ms ease-in-out;
+}
+
+a:hover {
+  color: black;
+}
