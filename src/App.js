@@ -2,17 +2,15 @@ import Dictionary from "./Dictionary";
 import Footer from "./Footer";
 import "./App.css";
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <div className="container">
         <header className="App-header"></header>
-        <h1>Dictionary App 📖</h1>
+        <h1>World Dictionary 📖</h1>
         <Dictionary defaultKeyword="cake" />
       </div>
       <Footer />
     </div>
   );
 }
-
-export default App;
