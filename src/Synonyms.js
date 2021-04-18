@@ -6,7 +6,9 @@ export default function Synonyms(props) {
     return (
       <div className="Synonyms">
         <div className="row">
-          <div className="col-auto">Synonyms:</div>
+          <div className="col-auto">
+            <strong>Synonyms:</strong>
+          </div>
           {props.synonyms.map(function (synonym, index) {
             return (
               <div className="col-auto synonym" key={index}>
