@@ -1,12 +1,8 @@
-h2 {
+.Results h2 {
   font-weight: 800;
+  font-size: 40px;
 }
 
-.word-and-sound {
-  border: none;
-  padding: 16px;
-  border-radius: 8px;
-  background-color: #d8ebe4;
-  box-shadow: 0 5px 5px rgb(0 0 0 / 5%);
-  margin: 30px 0 10px 0;
+.noDefinition {
+  text-align: center;
 }
