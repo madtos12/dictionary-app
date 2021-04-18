@@ -1,0 +1,19 @@
+.Synonyms {
+  line-height: 18px;
+  font-size: 17px;
+  margin: 5px 0 5px 17px;
+}
+
+.Synonyms .synonym {
+  font-size: 11px;
+  padding: 1px 11px 2px;
+  margin: 0px 5px 3px 0px;
+  overflow-wrap: break-word;
+  border: 0.5px solid white;
+  background-color: white;
+  border-radius: 32px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  overflow-wrap: break-word;
+}
