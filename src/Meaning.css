@@ -1,16 +1,18 @@
 .Meaning h3 {
+  font-family: "Hammersmith One", sans-serif;
   font-weight: bold;
   line-height: 1.5;
 }
 
 .Meaning li {
+  font-family: "Noto Sans JP", sans-serif;
   margin-bottom: 10px;
 }
 
 .Meaning li em {
-  color: #59bfa7;
+  color: #2f5d62;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .Meaning strong {
