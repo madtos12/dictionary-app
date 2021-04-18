@@ -1,25 +1,26 @@
 import React from "react";
+import "./Footer.css";
 
 export default function Footer() {
   return (
-    <div className="footer">
+    <div className="Footer">
       <small>
-        This project was coded by Madeline Santos. It is{" "}
+        Coded by Madeline Santos. It is open-sourced on{" "}
         <a
           href="https://github.com/madtos12/dictionary-app"
           target="_blank"
           rel="noreferrer"
         >
           {" "}
-          open-sourced on GitHub
+          GitHub
         </a>{" "}
-        and{" "}
+        and hosted on{" "}
         <a
           href="https://jolly-poincare-27490a.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
-          hosted on Netlify
+          Netlify.
         </a>
       </small>
     </div>
